@@ -1,5 +1,5 @@
 "# CPU Simulator" 
-
+Round Robin Queue - Processes take turns for a specified Quantum, calculates the average turnaround time for process, and the CPU utilization from start to finish.
 Sample I/O  
 Number of processes: 4  
 Number of cores: 1  
